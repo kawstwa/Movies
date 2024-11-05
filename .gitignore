@@ -1,0 +1,7 @@
+.env
+movies_end/
+instance/
+angela_main.py
+edit_database.py
+movies.py
+.DS_Store
